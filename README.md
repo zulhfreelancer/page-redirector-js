@@ -13,4 +13,5 @@ A simple random page redirector using Javascript.
 ### Contribute
 
 Feel free to fork this repo and submit your pull request. :muscle:
+
 [Follow me on Twitter](http://twitter.com/zulhhandyplast)
